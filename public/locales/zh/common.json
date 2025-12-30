@@ -1,0 +1,54 @@
+{
+  "site": {
+    "title": "让·普鲁维研究网站",
+    "description": "探索法国建筑师让·普鲁维的轻型建筑建造系统和创新设计"
+  },
+  "navigation": {
+    "home": "首页",
+    "biography": "传记",
+    "works": "作品",
+    "scholars": "学者研究",
+    "search": "搜索",
+    "language": "语言"
+  },
+  "home": {
+    "subtitle": "探索法国建筑师让·普鲁维的轻型建筑建造系统和创新设计",
+    "biography_description": "了解普鲁维的生平、教育背景和职业里程碑",
+    "works_description": "探索他的主要建筑作品和设计创新",
+    "scholars_description": "发现全球学者对普鲁维的研究成果"
+  },
+  "search": {
+    "placeholder": "搜索作品、学者、传记...",
+    "noResults": "未找到相关结果",
+    "tryDifferentKeywords": "尝试使用不同的关键词",
+    "resultsCount": "找到 {{count}} 个结果",
+    "searchFor": "搜索 \"{{query}}\"",
+    "filters": {
+      "all": "全部",
+      "works": "建筑作品",
+      "scholars": "学者研究",
+      "biography": "传记内容",
+      "publications": "出版物",
+      "categories": "分类",
+      "regions": "地区",
+      "years": "年份",
+      "sortBy": "排序方式",
+      "relevance": "相关性",
+      "year": "年份",
+      "title": "标题",
+      "author": "作者",
+      "clearAll": "清除所有筛选"
+    },
+    "suggestions": "搜索建议",
+    "viewAllResults": "查看所有结果"
+  },
+  "common": {
+    "loading": "加载中...",
+    "error": "出现错误",
+    "notFound": "未找到",
+    "readMore": "阅读更多",
+    "close": "关闭",
+    "next": "下一个",
+    "previous": "上一个"
+  }
+}

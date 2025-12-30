@@ -1,0 +1,29 @@
+{
+  "site": {
+    "title": "Jean Prouvé Research Website",
+    "description": "Explore the lightweight construction systems and innovations of French architect Jean Prouvé"
+  },
+  "navigation": {
+    "home": "Home",
+    "biography": "Biography",
+    "works": "Works",
+    "scholars": "Scholarly Research",
+    "search": "Search",
+    "language": "Language"
+  },
+  "home": {
+    "subtitle": "Explore the lightweight construction systems and innovations of French architect Jean Prouvé",
+    "biography_description": "Learn about Prouvé's life, education, and career milestones",
+    "works_description": "Explore his major architectural works and design innovations",
+    "scholars_description": "Discover global scholarly research on Prouvé"
+  },
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "notFound": "Not Found",
+    "readMore": "Read More",
+    "close": "Close",
+    "next": "Next",
+    "previous": "Previous"
+  }
+}

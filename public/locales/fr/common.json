@@ -1,0 +1,29 @@
+{
+  "site": {
+    "title": "Site de Recherche Jean Prouvé",
+    "description": "Explorez les systèmes de construction légère et les innovations de l'architecte français Jean Prouvé"
+  },
+  "navigation": {
+    "home": "Accueil",
+    "biography": "Biographie",
+    "works": "Œuvres",
+    "scholars": "Recherche Académique",
+    "search": "Rechercher",
+    "language": "Langue"
+  },
+  "home": {
+    "subtitle": "Explorez les systèmes de construction légère et les innovations de l'architecte français Jean Prouvé",
+    "biography_description": "Découvrez la vie, l'éducation et les étapes de carrière de Prouvé",
+    "works_description": "Explorez ses principales œuvres architecturales et innovations de design",
+    "scholars_description": "Découvrez les recherches mondiales sur Prouvé"
+  },
+  "common": {
+    "loading": "Chargement...",
+    "error": "Erreur",
+    "notFound": "Non trouvé",
+    "readMore": "Lire plus",
+    "close": "Fermer",
+    "next": "Suivant",
+    "previous": "Précédent"
+  }
+}
